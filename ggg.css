@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+}
+
+.di{
+font-weight: bolder;
+padding: 10px;
+}
+a{
+    color: white;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 900px;
+}
+ul{
+    width: 290px;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
